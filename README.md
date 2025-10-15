@@ -25,17 +25,20 @@ Bu prototip, uygulamanın en temel döngüsünü içermektedir:
 
 ## 📸 Ekran Görüntüleri
 
+### Ekran Görüntüleri
+
 ### 1. Kayıt Sayfası
 *Yeni müzisyenlerin sisteme dahil olduğu form ekranı.*
 
-![Kayıt Sayfası](https://i.imgur.com/link-buraya.png)
+<img width="996" height="637" alt="Ekran görüntüsü 2025-10-15 224355" src="https://github.com/user-attachments/assets/184c4d5d-8aed-4eff-bc41-be368aecdc7d" />
+
 
 ### 2. Ana Sayfa (Müzisyen Listesi)
 *Veritabanındaki müzisyenlerin listelendiği `Repeating Group` yapısı.*
 
-![Ana Sayfa](https://i.imgur.com/link-buraya.png)
+<img width="190" height="463" alt="Ekran görüntüsü 2025-10-15 232256" src="https://github.com/user-attachments/assets/5ca39352-b00d-44f6-929d-cb5cae8ecda7" />
 
 ### 3. Profil Detay Sayfası
 *Listeden bir müzisyene tıklandığında açılan, o müzisyene ait bilgilerin dinamik olarak gösterildiği sayfa.*
 
-![Profil Sayfası](https://i.imgur.com/link-buraya.png)
+<img width="466" height="411" alt="Ekran görüntüsü 2025-10-15 233001" src="https://github.com/user-attachments/assets/39d8bfa4-09b8-4f24-9334-be9849fb0cf1" />
