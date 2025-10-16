@@ -21,6 +21,8 @@ Bu prototip, uygulamanın en temel döngüsünü içermektedir:
 2.  **Müzisyen Listeleme:** Ana sayfada (`index`), veritabanına kayıtlı olan tüm müzisyenler bir liste halinde görüntülenir.
 3.  **Profil Detay Görüntüleleme:** Ana sayfadaki listeden bir müzisyenin ismine tıklandığında, o müzisyene ait bilgilerin yer aldığı `profil` sayfası açılır.
 
+Not: Bu demo sürümü, projenin Adım 2'de planlanan wireframe'deki tüm görsel öğeleri ve ek özellikleri (arama, filtreleme vb.) içermemektedir. Bu prototipin temel amacı, uygulamanın ana teknik işlevlerinin (veri ekleme, listeleme ve detay görüntüleme) çalıştığını kanıtlamaktır.
+
 ---
 
 ## 📸 Ekran Görüntüleri
